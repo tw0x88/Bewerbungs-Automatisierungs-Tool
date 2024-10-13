@@ -1,0 +1,9 @@
+emailBetreff = "Initiativbewerbung für ein Praktikum als Fachinformatiker Anwendungsentwicklung"
+
+emailText_p1 = "im Rahmen meiner Umschulung zum Fachinformatiker für Anwendungsentwicklung, die ich bei der GFN GmbH absolviere, möchte ich mich bei Ihnen für ein Praktikum bewerben. Das Praktikum soll voraussichtlich von Mai 2025 bis Februar 2026 stattfinden. \n\n"
+emailText_p2 = "Während des Praktikums möchte ich meine theoretischen Kenntnisse in die Praxis umsetzen und weiter ausbauen. Durch verschiedene private Projekte konnte ich bereits wertvolle Erfahrung in der Softwareentwicklung sammeln. Besonders hervorheben möchte ich ein aktuelles Projekt, das meine Begeisterung für effiziente und innovative Lösungen unterstreicht. Ich habe ein Programm entwickelt, das Stellenbörsen automatisch durchsucht, geeignete Stellen filtert und die Bewerbungsunterlagen eigenständig generiert und versendet. Dieses Projekt zeigt nicht nur meine Programmierkenntnisse, sondern auch meine Fähigkeit, automatisierte Prozesse zu entwickeln. \n\n"
+emailText_p3 = "Die Details dieses Projekts stelle ich auf meiner Website https://www.kilzer.dev/bewerbung zur Verfügung, auf der Sie die Funktionsweise und den Code nachvollziehen können. Ich bin überzeugt, dass ich mit meiner praktischen Erfahrung und meinen technischen Fähigkeiten einen wertvollen Beitrag in Ihrem Unternehmen leisten kann. \n\n"
+emailText_p4 = "Weitere Informationen zum Praktikum seitens der GFN finden Sie auf der letzten Seite des angehängten PDFs. \n\n"
+emailText_p5 = "Ich freue mich darauf, mich persönlich bei Ihnen vorzustellen und über die Möglichkeit zu sprechen, meine Umschulung mit einem Praktikum in Ihrem Unternehmen zu bereichern. \n\n"
+grussSignatur = "Beste Grüße\nManuel Kilzer\n\n\nHaeckerstraße 2\n70565 Stuttgart\n0174/4335483\nmanuel@kilzer.dev\nhttps://www.kilzer.dev\n"
+emailText = emailText_p1 + emailText_p2 + emailText_p3 + emailText_p4 + emailText_p5 + grussSignatur
